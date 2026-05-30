@@ -293,7 +293,7 @@
     </div>
 
     <div class="hero-image">
-      <img src="profile.jpg" alt="Lokesh Akoju">
+      <img src="_DSC7904.jpeg" alt="Lokesh Akoju">
     </div>
 
   </div>
